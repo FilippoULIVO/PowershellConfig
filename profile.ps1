@@ -66,11 +66,11 @@ New-Alias open ii
 New-Alias restart Restart-PowerShell
 New-Alias admin Open-Admin-Powershell
 #New-Alias k kubectl
-New-Alias rc C:\Users\f.michelini\.aws\refresh-creds.ps1
+New-Alias rc $home\.aws\refresh-creds.ps1
 New-Alias rcf Refresh-Creds-Forced
 New-Alias j-8 Refresh-Java-8
 New-Alias j-11 Refresh-Java-11
 New-Alias j-15 Refresh-Java-15
 New-Alias rc-last-hope Refresh-Creds-Last-Hope
-New-Alias queue "C:\Users\f.michelini\ChNet\Roaming\OCPP complete flow\automatic_start.bat"
+New-Alias queue "$home\OCPP complete flow\automatic_start.bat"
 New-Alias uat Uat-Shortcut
